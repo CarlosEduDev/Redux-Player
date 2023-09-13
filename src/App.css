@@ -1,0 +1,16 @@
+body{
+   padding: 10px;
+}
+
+.sidebar-container{
+   text-align: left;
+}
+
+
+.sidebar-container li{
+   list-style: none;
+}
+
+.player-container h1{
+   text-align: center;
+}
